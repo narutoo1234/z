@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1702830521 source:c:\users\Владедец\desktop\zadacha_1\create_student_array.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1702819782 c:\users\Владедец\desktop\zadacha_1\student.h
+	<string>
+
+1702830521 source:c:\users\Владедец\desktop\zadacha_1\delete_student_array.cpp
+	"Student.h"
+	<iostream>
+
+1702927846 source:c:\users\Владедец\desktop\zadacha_1\main.cpp
+	"Student.h"
+	"Create_student_array.h"
+	"Delete_student_array.h"
+	"Output_to_file.h"
+
+1702830521 c:\users\Владедец\desktop\zadacha_1\create_student_array.h
+	"Student.h"
+	<string>
+
+1702830521 c:\users\Владедец\desktop\zadacha_1\delete_student_array.h
+	"Student.h"
+
+1702819689 c:\users\Владедец\desktop\zadacha_1\output_to_file.h
+	"Student.h"
+	<string>
+
+1702826013 c:\users\Владедец\desktop\zadacha_1\sort_surname.h
+	"Student.h"
+
+1702826198 c:\users\Владедец\desktop\zadacha_1\sort_year_birth.h
+	"Student.h"
+
+1702826399 c:\users\Владедец\desktop\zadacha_1\sort_course.h
+	"Student.h"
+
+1702827874 c:\users\Владедец\desktop\zadacha_1\sort_group.h
+	"Student.h"
+
+1702834856 source:c:\users\Владедец\desktop\zadacha_1\output_to_file.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1702828060 source:c:\users\Владедец\desktop\zadacha_1\sort_course.cpp
+	"Student.h"
+	<string>
+	<iostream>
+
+1702828153 source:c:\users\Владедец\desktop\zadacha_1\sort_group.cpp
+	"Student.h"
+	<string>
+	<iostream>
+
+1702828060 source:c:\users\Владедец\desktop\zadacha_1\sort_surname.cpp
+	"Student.h"
+	<string>
+	<iostream>
+
+1702828060 source:c:\users\Владедец\desktop\zadacha_1\sort_year_birth.cpp
+	"Student.h"
+	<string>
+	<iostream>
+
+1702830522 source:c:\users\local\desktop\zadacha_1\create_student_array.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1702819784 c:\users\local\desktop\zadacha_1\student.h
+	<string>
+
+1702830522 source:c:\users\local\desktop\zadacha_1\delete_student_array.cpp
+	"Student.h"
+	<iostream>
+
+1702927848 source:c:\users\local\desktop\zadacha_1\main.cpp
+	"Student.h"
+	"Create_student_array.h"
+	"Delete_student_array.h"
+	"Output_to_file.h"
+
+1702830522 c:\users\local\desktop\zadacha_1\create_student_array.h
+	"Student.h"
+	<string>
+
+1702830522 c:\users\local\desktop\zadacha_1\delete_student_array.h
+	"Student.h"
+
+1702819690 c:\users\local\desktop\zadacha_1\output_to_file.h
+	"Student.h"
+	<string>
+
+1702834858 source:c:\users\local\desktop\zadacha_1\output_to_file.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<string>
+
