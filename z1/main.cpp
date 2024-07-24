@@ -1,5 +1,3 @@
-// Задача №1
-
 #include "Student.h"
 #include "Create_student_array.h"
 #include "Delete_student_array.h"
